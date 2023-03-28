@@ -1,9 +1,12 @@
-# character-prediction
+<h2>Application for character prediction using machine learning</h2>
+<br>
 
 This repository represents my engineer's thesis at AGH University of Science and Technology.
+<br>
 
-My research paper is titled "Application for character prediction using machine learning" and it can be found in documents directory.
-
-In my research I was developing a neural network in order to predict next character in a word.
-Later I extended my application to work on sentence context so it was predicting a next word in a sentence.
-In the end I compared neural networks to markov chain.
+<h3>Application features:</h3>
+<ul>
+  <li>predicting a next character in a word using neural networks</li>
+  <li>predicting a next character in a word using markov chain</li>
+  <li>predicting a next word in a sentence using neural networks</li>
+</ul>
